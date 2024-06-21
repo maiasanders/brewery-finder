@@ -1,0 +1,3 @@
+# Brewery Finder API
+This API connects brewers and users. Brewers are able to maintain a profile for their breweries, with lists of the beers they offer. Users can search breweries and beers using a variety of search criteria. Users can also leave reviews for beers that they have tried.
+Future updates will include the ability for breweries to post upcoming events that are searchable by users, and the ability for brewers and users (pending moderation) to post photos from breweries.
